@@ -1,5 +1,5 @@
 repos:
-  - repo: https://github.com/hungnd61097/test-connect.git
+  - repo: git@github.com:hungnd61097/test-connect2.git
     dest: frontend
-  - repo: https://github.com/hungnd61097/test-connect2.git
+  - repo: git@github.com:hungnd61097/test-connect.git
     dest: backend
