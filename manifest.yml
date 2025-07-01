@@ -1,7 +1,7 @@
 repos:
-  - repo: git@github.com:hungnd61097/test-connect2.git
+  - url: git@github.com:hungnd61097/test-connect2.git
     dest: foo
     branch: main
-  - repo: git@github.com:hungnd61097/test-connect.git
+  - url: git@github.com:hungnd61097/test-connect.git
     dest: bar
     branch: main
