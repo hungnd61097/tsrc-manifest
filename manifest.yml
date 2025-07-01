@@ -1,5 +1,6 @@
 repos:
-  - repo: git@github.com:hungnd61097/test-connect2.git
-    dest: frontend
-  - repo: git@github.com:hungnd61097/test-connect.git
-    dest: backend
+  - dest: foo
+    url: git@github.com:hungnd61097/test-connect2.git
+
+  - dest: bar
+    url: git@github.com:hungnd61097/test-connect.git
